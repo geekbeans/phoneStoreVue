@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="735e744a-8d6e-4fc2-b1b0-1423521306f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\myjava_maven\maven_repository" />
+        <option name="mavenHome" value="D:/myjava_maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\myjava_maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1hgPMmkVIVpTy85Lha0kSliEjXV" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/api" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\开源项目\phone-store\phone_store_demo\src\api" />
+      <recent name="D:\开源项目\phone-store\phone_store_demo\public\static" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="735e744a-8d6e-4fc2-b1b0-1423521306f8" name="Default Changelist" comment="" />
+      <created>1600429716674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600429716674</updated>
+      <workItem from="1600429718833" duration="2844000" />
+      <workItem from="1600779235795" duration="17000" />
+      <workItem from="1601692136623" duration="13444000" />
+      <workItem from="1601775303758" duration="11818000" />
+      <workItem from="1601864110600" duration="14480000" />
+      <workItem from="1601896106584" duration="746000" />
+      <workItem from="1601896873740" duration="465000" />
+      <workItem from="1601897361245" duration="2315000" />
+      <workItem from="1601901284546" duration="184000" />
+      <workItem from="1601901555605" duration="80000" />
+      <workItem from="1601949241170" duration="5735000" />
+      <workItem from="1602243865891" duration="3272000" />
+      <workItem from="1602312233676" duration="599000" />
+      <workItem from="1603797639383" duration="1642000" />
+      <workItem from="1603862988884" duration="654000" />
+      <workItem from="1603934901316" duration="723000" />
+      <workItem from="1604022247390" duration="17334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="205" key="FileChooserDialogImpl" timestamp="1601901411324">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="205" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1601901411324" />
+    <state x="549" y="359" width="366" height="202" key="Github.CreateGistDialog" timestamp="1604064192819">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="549" y="359" width="366" height="202" key="Github.CreateGistDialog/0.0.1440.920@0.0.1440.920" timestamp="1604064192819" />
+    <state x="88" y="71" key="SettingsEditor" timestamp="1604064095996">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="88" y="71" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1604064095996" />
+    <state x="108" y="169" key="new project wizard" timestamp="1601901469351">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="108" y="169" key="new project wizard/0.0.1440.920@0.0.1440.920" timestamp="1601901469351" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1604061284673">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1604061284673" />
+  </component>
+</project>
